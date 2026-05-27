@@ -12,8 +12,8 @@ A lightweight YouTube Music desktop wrapper built with **Tauri v2** and **Rust**
 
 ## A Resource-friendly Alternative to Electron
 
-- **~3MB installer** — downloads in seconds
-- **~50MB RAM usage** — light enough to forget it's running
+- **3MB installer** — downloads in seconds
+- **50MB RAM usage** — light enough to forget it's running
 - **Pure Rust backend** — no Node.js, no npm runtime overhead
 - **Zero third-party UI bloat** — no React, no Vue, no framework tax
 
@@ -25,9 +25,6 @@ A lightweight YouTube Music desktop wrapper built with **Tauri v2** and **Rust**
 - Minimize to system tray on close — keeps playing in background
 - System tray with Show / Quit options
 - Now Playing desktop notifications on track change
-- Notification toggle (On/Off) from tray submenu
-- Single instance lock — second launch focuses existing window
-- User-level install — no admin rights required
 
 ---
 
@@ -35,9 +32,7 @@ A lightweight YouTube Music desktop wrapper built with **Tauri v2** and **Rust**
 
 Head to [Releases](https://github.com/yuvrajpinkman/yt_music_advance/releases) and download the latest `.exe` installer.
 
-- No admin prompt required
-- Installs to `%LocalAppData%` (just like VSCode)
-- Uninstall cleanly from Settings → Apps
+- Installs to `%LocalAppData%`
 
 ---
 
