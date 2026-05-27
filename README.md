@@ -10,18 +10,12 @@ A lightweight YouTube Music desktop wrapper built with **Tauri v2** and **Rust**
 
 ---
 
-## Why this over ytmdesktop?
+## A Resource-friendly Alternative to Electron
 
-| | YouTube Music Desktop (this) | ytmdesktop |
-|---|---|---|
-| **Framework** | Tauri v2 (Rust) | Electron |
-| **RAM Usage** | ~50MB | ~300MB+ |
-| **Installer Size** | ~3MB | ~150MB+ |
-| **Third-party bloat** | None | Heavy |
-| **Backend** | Pure Rust | Node.js |
-| **WebView** | System WebView2 | Bundled Chromium |
-
-Tauri uses your system's native WebView2 (already installed with Windows) instead of bundling an entire Chromium browser like Electron does. That's the difference.
+- **~3MB installer** — downloads in seconds
+- **~50MB RAM usage** — light enough to forget it's running
+- **Pure Rust backend** — no Node.js, no npm runtime overhead
+- **Zero third-party UI bloat** — no React, no Vue, no framework tax
 
 ---
 
