@@ -46,6 +46,7 @@ Head to [Releases](https://github.com/yuvrajpinkman/yt_music_advance/releases) a
 ## Build from Source
 
 **Requirements:**
+
 - [Rust](https://rustup.rs/)
 - [Node.js v18+](https://nodejs.org/)
 - [VS Build Tools 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/) with "Desktop development with C++"
