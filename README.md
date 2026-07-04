@@ -6,8 +6,7 @@ A lightweight YouTube Music desktop wrapper built with **Tauri v2** and **Rust**
 ![Tauri](https://img.shields.io/badge/Tauri-v2-orange?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-backend-orange?style=for-the-badge&logo=rust)
 ![License](https://img.shields.io/github/license/yuvrajpinkman/yt_music_advance?style=for-the-badge)
-```![Release](https://img.shields.io/github/v/release/yuvrajpinkman/yt_music_advance?style=for-the-badge)
-```
+<!-- ![Release](https://img.shields.io/github/v/release/yuvrajpinkman/yt_music_advance?style=for-the-badge)-->
 ---
 
 ## A Resource-friendly Alternative to Electron
